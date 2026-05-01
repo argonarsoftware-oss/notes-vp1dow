@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://argonarsoftware-oss.github.io/notes-vp1dow/sitemap.xml
